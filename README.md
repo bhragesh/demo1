@@ -1,2 +1,2 @@
 # demo1
-This is a demo , first repo
+This is a demo , first repo.
